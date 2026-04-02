@@ -11,3 +11,7 @@ I have a few questions, mainly for the client. But I'm hoping you can answer the
 -Alice
 
 Alice, sorry for the late response. Yes, you'll be using the second wireframe that is provided. As for the images, I provided all the images in the weapons_imgs/weapons folder for you. As for the information for the images, it's under the dead space website-ds2.docx. Scroll down a bit and you'll find your section. Let me know if you have any other questions!
+-Seth
+
+Beck, make sure that you're following the second template that is provided. Right now, it looks like you used the first template, but I don't know if you're still in the process of working on it. If that's the case, don't worry about this message. I understand that you've been dealing with a ton of finals stuff, so no big deal if you can't get to it. But if you can, make sure you follow what the second templates format shows.
+-Seth
