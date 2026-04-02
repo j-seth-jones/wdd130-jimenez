@@ -3,7 +3,6 @@ html, body {
     overflow-x: hidden;
 }
 
-
 @font-face {
     font-family: 'DeadSpaceTitle';
     src: url('../fonts/DeadSpaceTitleFont.ttf');
@@ -24,7 +23,6 @@ html, body {
     --accent-cyan: #00D7D7;
 }
 
-
 body {
     background-image: url(../images/ds2background.jpg);
     background-size: cover;
@@ -34,7 +32,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 
 h2, h3 {
     font-family: 'DeadSpaceTitle', sans-serif;
@@ -124,7 +121,6 @@ nav li {
     list-style-type: none;
 }
 
-
 .home-grid {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
@@ -136,4 +132,11 @@ nav li {
     width: 100%;
     height: auto;
     border: 1px solid var(--secondary-color);
+}
+
+.characters_text {
+    background-color: rgba(1, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--accent-cyan);
+    padding: 20px;
 }
