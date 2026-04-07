@@ -15,4 +15,7 @@ Alice, sorry for the late response. Yes, you'll be using the second wireframe th
 
 Beck, make sure that you're following the second template that is provided. Right now, it looks like you used the first template, but I don't know if you're still in the process of working on it. If that's the case, don't worry about this message. I understand that you've been dealing with a ton of finals stuff, so no big deal if you can't get to it. But if you can, make sure you follow what the second templates format shows.
 -Seth
-        ^ I think I fixed it, but let me know if I am using the wrong template. I still need to do the enemies, so I'd love to hear back before I do the rest of it wrong, just in case :) -Beck
+^ I think I fixed it, but let me know if I am using the wrong template. I still need to do the enemies, so I'd love to hear back before I do the rest of it wrong, just in case :) -Beck
+
+Sorry to get back so late, Seth! You're definitely using the right template! It looks great!
+-Seth
